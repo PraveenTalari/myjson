@@ -1,15 +1,12 @@
 {
-  "myusers": {
-    "users": [
-      {
-        "display_name": "Tom",
-        "lastName": "Cruise",
-        "profile_image": "https://jsonformatter.org/img/tom-cruise.jpg"
-      },
-      {
-        "display_name": "Maria",
-        "profile_image": "https://jsonformatter.org/img/Maria-Sharapova.jpg"
-      }
-    ]
-  }
+  "items": [
+    {
+      "name": "user1",
+      "id": "id1"
+    },
+    {
+      "name": "user2",
+      "id": "id2"
+    }
+  ]
 }
