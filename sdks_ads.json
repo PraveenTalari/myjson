@@ -1,0 +1,433 @@
+{
+    "SDKCollection": [
+        {
+            "title":"test it GoogleIMA",
+            "Id": "GoogleIMA",
+            "resourceId": "GoogleIMA",
+            "description": "Google Interactive Mobile Ads SDK",
+            "imageName": "",
+            "ads":[
+                {
+                    "title": "DFP OMID Video",
+                    "adTag": "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480|1024x768&iu=/200901344/OMIDWVVideo1&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]",
+                    "adType": "video",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "GoogleIMA_DFP-OMID-Video"
+                },
+                {
+                    "title": "DFP Companion",
+                    "adTag": "https://pubads.g.doubleclick.net/gampad/ads?iu=/200901344/NicksAdUnitCode&description_url=http%3A%2F%2Fabc.com&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&ciu_szs=300x250&unviewed_position_start=1",
+                    "adType": "video",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "GoogleIMA_DFP-Companion"
+                },
+                {
+                    "title": "Pre-roll1",
+                    "adTag": "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/200901344/NicksAdUnitCode&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ct%3Dlinear&correlator=",
+                    "adType": "video",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "GoogleIMA_Pre-roll1"
+                },
+                {
+                    "title": "Pre-roll, linear not skippable",
+                    "adTag": "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/124319096/external/single_ad_samples&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ct%3Dlinear&correlator=",
+                    "adType": "video",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "GoogleIMA_Pre-roll-linear-not-skippable"
+                },
+                {
+                    "title": "Pre-roll, linear, skippable",
+                    "adTag": "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/124319096/external/single_ad_samples&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ct%3Dskippablelinear&correlator=",
+                    "adType": "video",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "GoogleIMA_Pre-roll-linear-skippable"
+                },
+                {
+                    "title": "Post-roll",
+                    "adTag": "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/124319096/external/ad_rule_samples&ciu_szs=300x250&ad_rule=1&impl=s&gdfp_req=1&env=vp&output=vmap&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ar%3Dpostonly&cmsid=496&vid=short_onecue&correlator=",
+                    "adType": "video",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "GoogleIMA_Post-roll"
+                }
+            ]
+        },
+        {
+            "title": "GMA",
+            "Id": "GMA",
+            "resourceId": "GMA",
+            "description": "Google Mobile Ads",
+            "imageName": "",
+            "ads":[
+                {
+                    "title": "Dustin Banner",
+                    "adTag": "/6062/omid_test_banner",
+                    "adType": "banner",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "GMA_Banner"
+                },
+                {
+                    "title": "MEAS28 Banner",
+                    "adTag": "/200901344/Meas28_Banner",
+                    "adType": "banner",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "GMA_Banner"
+                },
+                {
+                    "title": "Banner",
+                    "adTag": "/200901344/OMIDWVBanner1",
+                    "adType": "banner",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "GMA_Banner"
+                },
+                {
+                    "title": "Interstitial",
+                    "adTag": "/200901344/DV_HM_IS_TEST_AD_2",
+                    "adType": "interstitial",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "GMA_Interstitial"
+                },
+                {
+                    "title": "RewardsVideo (15s)",
+                    "adTag": "/200901344/OMIDWVVideo1",
+                    "adType": "reward",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "GMA_RewardsVideo(15s)"
+                },
+                {
+                    "title": "RewardsVideo (30s)",
+                    "adTag": "/200901344/NicksAdUnitCode",
+                    "adType": "reward",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "GMA_RewardsVideo(30s)"
+                },
+                {
+                    "title": "Native",
+                    "adTag": "/200901344/DV_HM_Native_Ad",
+                    "adType": "native",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "GMA_Native"
+                },
+                {
+                    "title": "Native Video",
+                    "adTag": "/200901344/DV_HM_Native_Video_Content_Ad",
+                    "adType": "native",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "GMA_Native_Video"
+                }
+            ]
+        },
+        {
+            "title": "Smaato",
+            "Id": "Smaato",
+            "resourceId": "1100041432",
+            "description": "Smaato SDK",
+            "imageName": "",
+            "ads":[
+                {
+                    "title": "Banner",
+                    "adTag": "130524425",
+                    "adType": "banner",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "Smaato_Banner"
+                },
+                {
+                    "title": "Toaster Banner",
+                    "adTag": "130524425",
+                    "adType": "toaster",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "Smaato_Toaster"
+                },
+                {
+                    "title": "MediumRectangle",
+                    "adTag": "130524425",
+                    "adType": "mediumRectangle",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "Smaato_MediumRectangle"
+                },
+                {
+                    "title": "Interstitial",
+                    "adTag": "130524425",
+                    "adType": "interstitial",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "Smaato_Interstitial"
+                },
+                {
+                    "title": "VAST Video",
+                    "adTag": "3090",
+                    "adType": "vastVideo",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "Smaato_VAST-Video"
+                },
+                {
+                    "title": "RewardsVideo",
+                    "adTag": "3090",
+                    "adType": "reward",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "Smaato_RewardsVideo"
+                },
+                {
+                    "title": "Native Custom",
+                    "adTag": "130525414",
+                    "adType": "native",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "Smaato_Native-Custom"
+                },
+                {
+                    "title": "Native AppWall",
+                    "adTag": "130525414",
+                    "adType": "nativeAdAppWall",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "Smaato_Native-AppWall"
+                }
+            ]
+        },
+        {
+            "title": "MoPub",
+            "Id": "MoPub",
+            "resourceId": "",
+            "description": "MoPub SDK",
+            "imageName": "",
+            "ads":[
+                {
+                    "title": "Banner",
+                    "adTag": "9f965736c8e641758c9ce7cb34882dce",
+                    "adType": "banner",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "MoPub_Banner"
+                },
+                {
+                    "title": "MediumRectangle",
+                    "adTag": "75d84f927fd8409abd846abcf17c2b9f",
+                    "adType": "mediumRectangle",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "MoPub_MediumRectangle"
+                },
+                {
+                    "title": "Interstitial",
+                    "adTag": "7fee0e25360043659d3fd995ae8694dc",
+                    "adType": "interstitial",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "MoPub_Interstitial"
+                },
+                {
+                    "title": "Rewarded Video",
+                    "adTag": "8513a1cdebda4e80a0e5ed0c9357593a",
+                    "adType": "reward",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "MoPub_RewardsVideo"
+                },
+                {
+                    "title": "Native",
+                    "adTag": "1ee5b66477fd42cf93d7f24129c4d648",
+                    "adType": "native",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "MoPub_Native"
+                }
+            ]
+        },
+        {
+            "title": "AppNexus",
+            "Id": "AppNexus",
+            "resourceId": "AppNexus",
+            "description": "AppNexus SDK",
+            "imageName": "",
+            "ads":[
+                {
+                    "title": "Banner",
+                    "adTag": "1326299",
+                    "adType": "banner",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "AppNexus_Banner"
+                },
+                {
+                    "title": "Interstitial",
+                    "adTag": "1326299",
+                    "adType": "interstitial",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "AppNexus_Interstitial"
+                },
+                {
+                    "title": "Native",
+                    "adTag": "123456",
+                    "adType": "native",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "AppNexus_Native"
+                },
+                {
+                    "title": "Video",
+                    "adTag": "9924002",
+                    "adType": "video",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "AppNexus_Interstitial"
+                }
+            ]
+        },
+        {
+            "title": "StartApp",
+            "Id": "StartApp",
+            "resourceId": "210522469",
+            "description": "StartApp SDK",
+            "imageName": "",
+            "ads":[
+                {
+                    "title": "Banner",
+                    "adTag": "412290129",
+                    "adType": "banner",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "StartApp_Banner"
+                },
+                {
+                    "title": "Interstitial",
+                    "adTag": "1326299",
+                    "adType": "interstitial",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "StartApp_Interstitial"
+                },
+                {
+                    "title": "Rewarded Video",
+                    "adTag": "1326299",
+                    "adType": "reward",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "StartApp_Interstitial"
+                },
+                {
+                    "title": "Native",
+                    "adTag": "123456",
+                    "adType": "native",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "StartApp_Native"
+                }
+            ]
+        },
+        {
+            "title": "AOL MM",
+            "Id": "AOLMillennialMedia",
+            "resourceId": "8a809418014d4dba274de5017840037f",
+            "description": "AOL Millennial Media SDK",
+            "imageName": "",
+            "ads":[
+                {
+                    "title": "Banner",
+                    "adTag": "203888",
+                    "adType": "banner",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "AOLMillennialMedia_Banner"
+                },
+                {
+                    "title": "Interstitial",
+                    "adTag": "203890",
+                    "adType": "interstitial",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "AOLMillennialMedia_Interstitial"
+                },
+                {
+                    "title": "Native",
+                    "adTag": "203891",
+                    "adType": "native",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "AOLMillennialMedia_Native"
+                }
+            ]
+        },
+        {
+            "title": "OM SDK",
+            "Id": "OMSDK",
+            "resourceId": "",
+            "description": "DV Open Measurement SDK",
+            "imageName": "",
+            "ads":[
+                {
+                    "title": "WebView Display",
+                    "adTag": "http://dv-sd.com/ehud/OmidAds/omidAd.html",
+                    "adType": "banner",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "OMSDK_WebView_Display"
+                },
+                {
+                    "title": "WebView Video",
+                    "adTag": "http://dv-sd.com/ehud/OmidAds/videoVpaidApp/VideoWebDoubleTagAd.html",
+                    "adType": "video",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "OMSDK_WebView_Display"
+                },
+                {
+                    "title": "Native Display",
+                    "adTag": "",
+                    "adType": "native",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "OMSDK_Native_Display"
+                },
+                {
+                    "title": "Native Video",
+                    "adTag": "",
+                    "adType": "nativeVideo",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "OMSDK_Native_Video"
+                },
+                {
+                    "title": "Interstitial",
+                    "adTag": "",
+                    "adType": "interstitial",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "OMSDK_Interstitial"
+                }
+            ]
+        },
+        {
+            "title": "MRAID",
+            "Id": "MRAID_MOPUB",
+            "resourceId": "",
+            "description": "MRAID Using MobPub",
+            "imageName": "",
+            "ads":[
+                {
+                    "title": "Banner",
+                    "adTag": "a248789d73a14e19941c92e80c4d3d0a",
+                    "adType": "banner",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "MRAID_Banner"
+                },
+                {
+                    "title": "Interstitial",
+                    "adTag": "3972714cf26c4df7bc0e41147daf572c",
+                    "adType": "interstitial",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "MRAID_Interstitial"
+                },
+                {
+                    "title": "Interstitial Video",
+                    "adTag": "d68a0cf8e41d4255bead833efda2530f",
+                    "adType": "interstitial",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "MRAID_Interstitial_Video"
+                }
+            ]
+        },
+        {
+            "title": "AdColony",
+            "Id": "AdColony",
+            "resourceId": "app185a7e71e1714831a49ec7",
+            "description": "AdColony",
+            "imageName": "",
+            "ads": [
+                {
+                    "title": "Interstitial",
+                    "adTag": "vz06e8c32a037749699e7050",
+                    "adType": "interstitial",
+                    "sdkType": "AdColony",
+                    "imageName": "",
+                    "controlID": "AdColony_Interstitial"
+                },
+                {
+                    "title": "Rewarded Interstitial",
+                    "adTag": "vz1fd5a8b2bf6841a0a4b826",
+                    "adType": "interstitial",
+                    "sdkType": "AdColony",
+                    "imageName": "ic_launcher.png",
+                    "controlID": "AdColony_RewardedInterstitial"
+                }
+            ]
+        }
+
+    ]
+}
